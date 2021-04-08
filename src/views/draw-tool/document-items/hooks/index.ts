@@ -1,0 +1,1 @@
+export {useDefineDefaultImageDimensions} from './useDefineDefaultImageDimensions';
